@@ -19,4 +19,4 @@ Google Geocoding API, Forecast.io DarkSky API, IP API, Twitter API, Google Custo
 6. Interactive Graphs and Charts are implemented using MP Android Chart.
 7. Splash Screen is implemented before the app loads.
 8. Dynamic load symbol covers the screen when data is being fetched.
-9. Autocomplete TextView implemented to provide suggestions while searching.
+9. Autocomplete TextView is implemented to provide suggestions while searching.
