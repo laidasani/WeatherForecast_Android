@@ -2,7 +2,7 @@
 Reference Solution Video: https://www.youtube.com/watch?v=t_iCYOR0n4c&feature=youtu.be
 
 # Overview
-This Android application serves as the mobile counterpart of the project: https://github.com/laidasani/WeatherForecast_Angular_And_Node. Weather Search allows users to search for weather based on current location or any other location entered by the user. Users can know more about the weather through various interactive tabs, showing details like the current day's weather, weekly weather, and photos related to the search query. The user can also mark a city favorite so that it is stored for future ease of access.
+This android application serves as the mobile counterpart of the project: https://github.com/laidasani/WeatherForecast_Angular_And_Node. Weather Search allows users to search for weather based on current location or any other location entered by the user. Users can know more about the weather through various interactive tabs, showing details like the current day's weather, weekly weather, and photos related to the search query. The user can also mark a city favorite so that it is stored for future ease of access.
 
 # Technologies Used
 Node.JS, Android (Java), Volley library, Glide library, XML, JSON, Google Play Services, APIs
